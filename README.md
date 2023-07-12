@@ -1,6 +1,6 @@
 # Overview
 
-This repositery contains ANTIGONE source code, a model developped at EDF R&D to study long-term stakes of electricity market design.
+This repositery contains ANTIGONE source code, a model developed at EDF R&D to study long-term stakes of electricity market design.
 
 # Credits
 
